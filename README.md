@@ -1,6 +1,7 @@
 ### Hi there 👋, I am [A7](https://blackvitriol.github.io/)! 😁
 
 🤖🖥📡📱📶🗺🌐 = 📈🏆📊⭐💰💯 = 😃👪🏙🏞🧬🌿🙌✨🌏
+
 Hey there ! I am a technology enthusiast working towards developing automation, digital transformations,
 general intelligence and tech systems to advance civilization and make the world a better place.
 
